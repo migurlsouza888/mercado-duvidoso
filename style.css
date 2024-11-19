@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(199, 196, 162);
+    color: rgb(238, 242, 245);
+}
+h1{
+    color: rgb(171, 233, 3);
+}
+section{
+    background: rgb(5, 12, 0);
+    padding-top: 80px;
+    padding-bottom: 80px;
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+img{
+    height: 200px;
+}
+.pratos-vídeos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
