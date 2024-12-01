@@ -20,7 +20,7 @@ section{
 img{
     height: 200px;
 }
-.pratos-vídeos {
+.videos de itens de limpeza {
     display: flex;
     overflow-x: auto;
     gap: 10px;
